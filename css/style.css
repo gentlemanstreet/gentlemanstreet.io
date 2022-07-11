@@ -833,7 +833,6 @@ ul.location_icon li a {
      background: #03cafc;
 }
 
-.position_head .glasses,
-.shop {
+.position_head .glasses, .shop {
      margin-bottom: 90px;
 }
